@@ -1,0 +1,27 @@
+"","rest_names","season","StationCode","N","turb_quan25","turb_quan5","turb_quan75","iqr","order"
+"163","Gabilan Creek","dry","309GAB",33,40.7,189.6,370.5,329.8,1
+"130","Gabilan Creek","wet","309GAB",61,123.9,366.7,964,840.1,1
+"174","Natividad Creek","dry","309NAD",72,52.6,105.5,245.75,193.15,2
+"140","Natividad Creek","wet","309NAD",94,37.025,94.6,442.5,405.475,2
+"138","Reclamation Canal/Alisal Creek","dry","309ALG",67,26.9,55,156.7,129.8,3
+"116","Reclamation Canal/Alisal Creek","wet","309ALG",91,72.1,196,612,539.9,3
+"137","Reclamation Canal","dry","309ALD",46,19.4,37.5,57.5,38.1,4
+"115","Reclamation Canal","wet","309ALD",60,43.425,110,336.925,293.5,4
+"166","Reclamation Canal","dry","309JON",69,18,24.8,43.7,25.7,5
+"133","Reclamation Canal","wet","309JON",92,42.85,101.85,274.75,231.9,5
+"208","Tembladero Slough","dry","309TEH",69,57.1,88.2,159.4,102.3,6
+"164","Tembladero Slough","wet","309TEH",93,83.8,140.3,398.8,315,6
+"209","Tembladero Slough","dry","309TEM",17,37.9,53.7,86.9,49,7
+"165","Tembladero Slough","wet","309TEM",21,52.3,85.8,134.26,81.96,7
+"207","Tembladero Slough","dry","309TDW",76,59.325,125.25,183.35,124.025,8
+"1631","Tembladero Slough","wet","309TDW",100,49.275,86.75,160.675,111.4,8
+"176","Old Salinas River Channel","dry","309OLD",131,29.3,75.3,152.35,123.05,9
+"142","Old Salinas River Channel","wet","309OLD",168,36.3,74.4,151.975,115.675,9
+"143","Alisal Slough","dry","309ASB",67,11.85,22.6,42.15,30.3,10
+"118","Alisal Slough","wet","309ASB",90,27.25,51.45,102.45,75.2,10
+"171","Merrill Ditch","dry","309MER",69,42.3,76,122,79.7,11
+"1371","Merrill Ditch","wet","309MER",93,66.9,156.2,367,300.1,11
+"162","Espinosa Slogh","dry","309ESP",67,13.35,68.9,217,203.65,12
+"129","Espinosa Slogh","wet","309ESP",94,64.575,153.1,535.75,471.175,12
+"186","Santa Rita Creek","dry","309RTA",20,51.15,93.5,214.425,163.275,13
+"148","Santa Rita Creek","wet","309RTA",41,65.8,331,1144,1078.2,13

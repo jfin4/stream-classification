@@ -1,0 +1,410 @@
+OBJECTID,station_co,station_na,COMID,GNIS_NAME,ATTRIBUTE
+1,306-CARNE-36,Carneros Creek at Blohm Road,17605277,Elkhorn Slough,R2UBHx
+2,306-CARNE-31,Carneros Creek at Johnson Road,17604037,Elkhorn Slough,R4SBCx
+3,306-CARNE-32,Carneros Creek at mid entry to wetland,17604037,Elkhorn Slough,R4SBCx
+4,306-CARNE-33A,"Carneros Creek- Sill Road, road flow",17604037,Elkhorn Slough,R4SBCx
+5,306-CORNC-31,Corn Cob Canyon Creek/Watsonville Creek,17604009, ,R2UBHx
+6,307-CARME-366,Carmel River @ Schulte Road - upstream,17600113,Carmel River,R2UBH
+7,307-CARME-31,Carmel River at Cachuaga Community Center,17600733,Carmel River,R3UBH
+8,307-CARME-38,Carmel River at Hwy 1 MBNMS,17600111,Carmel River,R2UBH
+9,307-CARME-33,Carmel River at Rosie's Bridge,17600475,Carmel River,R3UBH
+10,307-CARME-36,Carmel River at Schulte Road MBNMS,17600113,Carmel River,R2UBH
+11,310CCC,Chorro Creek upstream from Chorro Flats,8192587,Chorro Creek,R2UBH
+12,309HRT,Alisal Creek @ Hartnell Rd dogleg,948060323,Alisal Creek,R4SBCx
+13,309ASB,Alisal Slough @ White Barn,17604415, ,R2UBHx
+14,310USG,Arroyo Grande Creek @ old USGS gage,8193677,Arroyo Grande Creek,PFOC
+15,315APF,Arroyo Paredon Creek at Foothill Bridge,17595455,Arroyo Paredon,R3UBH
+16,315APC,Arroyo Paredon Creek at Via Real,17595455,Arroyo Paredon,R3UBH
+17,305BRS,Beach Road Ditch at Shell Rd.,, ,R4SBCx
+18,315BEF,Bell Creek @ Winchester Canyon Park,17595359, ,PFOC
+19,309BLA,Blanco Drain below Pump,8201803,Salinas River,R2UBHx
+20,312BCC,Bradley Canyon Creek @ culvert,17624263, ,
+21,312BCJ,Bradley Channel @ Jones St,17624111, ,
+22,314DDE,Canal Trib to Santa Ynez River @ W Central Ave,17607779, ,R4SBCx
+23,305CAN,Carnadero Creek upstream of Pajaro River,17663007,Carnadero Creek,PFOA
+24,309CRR,Chualar Creek @ Chualar River Rd,948060140,Chualar Creek,R4SBCx
+25,309NOS,Chualar Creek @ Old Stage Rd (north branch),8201853,Chualar Creek,PEMCx
+26,309SOS,Chualar Creek @ Old Stage Rd (south branch),8201857, ,PEMCx
+27,309CCD,Chualar Creek west of Highway 101,948060140,Chualar Creek,R4SBCx
+28,309SBC,Chualar Creek west side of Hwy 101 (south branch),8201857, ,PEMCx
+29,310SLD,Davenport Creek @ Broad St,8192817, ,PEMA
+30,309ESP,Espinosa Slough upstream of Alisal Slough,17604361, ,R4SBCx
+31,317ESE,Estrella River @ Estrella River Rd upstream Hwy 46,17649021,Estrella River,R4SBC
+32,315FMV,Franklin Creek @ Mountain View Ln,17595477,Franklin Creek,R4SBCx
+33,305FUF,Furlong Creek at Frazier Lake Road,948060248, ,
+34,309GAB,Gabilan Creek @ Independence Rd and East Boranda Rd,17604473,Gabilan Creek,R2UBHx
+35,315GBR,Glen Annie Creek @ Bishop Ranch Rd,17595253, ,PFOA
+36,315GAN,Glenn Annie Creek upstream Cathedral Oaks,17595369,Tecolotito Creek,R4SBC
+37,312GVS,Green Valley @ Simas Rd,17624125, ,R4SBCx
+38,312OFN,Little Oso Flaco Creek @ railroad trestles,17621903, ,R2ABHx
+39,305LCS,Llagas Creek @ Southside,948060250,Llagas Creek,
+40,305LLA,Llagas Creek at Bloomfield Avenue,948060251,Llagas Creek,PEMCx
+41,305LHB,Llagas Creek at Highway 152,17661685,Llagas Creek,
+42,305HOL,Llagas Creek at Holsclaw Road (downstream of Leavesley Road),17661685,Llagas Creek,
+43,310LBC,Los Berros Creek @ Century,8193043,Los Berros Creek,R4SBCx
+44,315LCC,Los Carneros Creek at Calle Real,17595367, ,PFOC
+45,315LCR,Los Carneros Creek at Hollister Road,17595367, ,R2UBHx
+46,312MAB,Main St Ditch @ Bonita School,17624027, ,R4SBCx
+47,312MSS,Main Street Canal at daylight point,, ,
+48,312MSD,Main Street Canal at Main Street Crossing,, ,
+49,309MER,Merrit Ditch upstream from Hwy 183,17604339, ,R2UBHx
+50,314MCM,Miguelito Creek mouth @ treatment plant,17607917,San Miguelito Creek,PFOJ
+51,309NAD,Natividad Creek upstream from Salinas Reclamation Canal,17604451,Natividad Creek,PFOC
+52,309OLD,Old Salinas River at Monterey Dunes Way,17604291,Old Salinas River,R1UBV
+53,312ORI,Orcutt Creek @ Hwy 1,17624121, ,R4SBCx
+54,312ORS,Orcutt Creek @ Solomon Rd,17624555,Orcutt Creek,
+55,312ORC,Orcutt Creek at sand plant above Santa Maria River,17624017, ,R4SBCx
+56,312ORN,Orcutt North Fork Tributary near sand plant,17624043, ,R4SBCx
+57,312ORB,Orcutt Solomon Creek at Black Road,17624441,Orcutt Creek,
+58,312BSR,Oso Flaco Creek @ Bonita School & Division (south ditch),, ,
+59,312OLR,Oso Flaco Creek @ Hwy 1 & Oso Flaco Lake Rd (north ditch),, ,
+60,312OSR,Oso Flaco Creek @ Hwy 1 and south RR trestle,17623815, ,R4SBCx
+61,312USC,Oso Flaco Creek @ Oso Flaco Lake Rd upstream creek confluence,17621947, ,R2UBHx
+62,312OFC,Oso Flaco Creek at Oso Flaco Lake Road,17621947, ,R2UBHx
+63,305CHI,Pajaro River at Chittenden Gap,17663281,Pajaro River,PFOA
+64,305FRA,Pajaro River at Frazier Lake Road,17665471, ,
+65,305PJP,Pajaro River at Porter/Main,17665505,Pajaro River,PSSCx
+66,310PRE,Prefumo Creek  @ Calle Joaquin,8193639,Prefumo Creek,PFOC
+67,309QUI,Quail Creek @ Hwy 101,948060078,Quail Creek,R4SBCx
+68,309UQA,Quail Creek @ Old Stage Rd,8201815,Quail Creek,PUBFx
+69,309QUA,Quail Creek at Potter Road crossing,948060078,Quail Creek,R4SBCx
+70,309QCW,Quail Creek west of Hwy 101 @ RR tracks,948060078,Quail Creek,R4SBCx
+71,309ALG,Salinas Reclamation Canal @ La Guardia,17604551,Alisal Creek,R2UBHx
+72,309JON,Salinas Reclamation Canal @ San Jon Rd,17604479,Alisal Slough,R2UBHx
+73,309AVR,Salinas Reclamation Canal @ Victor Rd,17604495,Alisal Slough,R2UBHx
+74,309SAG,Salinas River @ Gonzales River Rd Bridge,948060280,Salinas River,R4SBC
+75,309SSP,Salinas River @ Spreckels Gage,8200525,Salinas River,R4SBC
+76,309USA,Salinas River At Bradley Bridge,8211471,Salinas River,R2UBG
+77,309SAC,Salinas River at Chualar River Road,8200795,Salinas River,R4SBC
+78,309GRN,Salinas River Elm Road in Greenfield,948060268,Salinas River,R4SBC
+79,309SUN,Salinas River upstream Nacimiento @ Bradley Rd,8212733,Salinas River,R4SBC
+80,305COR,Salsipuedes Creek downstream of Corralitos Creek,17663255,Salsipuedes Creek,PFOA
+81,313SAE,San Antonio Creek at San Antonio Road East,17620568,San Antonio Creek,R2UBH
+82,305SAN,San Benito at Y Road,17663353,San Benito River,
+83,305SBH,San Benito River at Hollister near 156,17663521,San Benito River,R4SBC
+84,305ACR,San Juan creek @ 1st St and Christopher Ranch,17663513, ,PSSCx
+85,305SJA,San Juan Creek @ Anzar Rd,17663387, ,PEMHx
+86,305MVR,San Juan Creek @ Mission Vineyard Rd near Hwy 156,17663549, ,R4SBCx
+87,305PRR,San Juan Creek @ Prescott Rd,17663507, ,PEMHx
+88,312SMA,Santa Maria River above Estuary,17623995,Santa Maria River,R1UBV
+89,312SMI,Santa Maria River at Highway 1,17625463,Santa Maria River,R2UBH
+90,309RTA,Santa Rita Creek @ Santa Rita Creek Park,17605311, ,R4SBCx
+91,314SYN,Santa Ynez River at 13th Street,17608943,Santa Ynez River,R2UBH
+92,314SYF,Santa Ynez River at Floradale Rd,948060202,Santa Ynez River,PSSA
+93,314SYI,Santa Ynez River at Highway 101,17607929,Santa Ynez River,R4USA
+94,314SYL,Santa Ynez River at Highway 246,948060325,Santa Ynez River,R4USA
+95,305STL,Struve Slough at Lee Road,17663287, ,PEMCd
+96,309TEH,Tembladero Slough @ Haro,17605297, ,R1UBV
+97,305TSR,Tequisquita Slough upstream Pajaro River @ Shore Rd,17663151,Tequisquita Slough,
+98,310WRP,Warden Creek @ Wetlands Restoration Preserve,8192635, ,PSS/FOCx
+99,305WCS,Watsonville Creek (aka Corncob Canyon) at Elkhorn Rd/Hudson Lndg,17604009, ,R2UBHx
+100,305WSA,Watsonville Slough upstream Harkins Slough,17663339, ,
+101,304-CSD-10,"Noble Gulch Creek at Kennedy Drive, trib to Soquel Creek",17684376, ,
+102,GAB-VET,Gabilan Creek at Veteran's Park,17604473,Gabilan Creek,R2UBHx
+103,NAT-LAS,Natividad Creek at Las Casitas Drive,17604471,Natividad Creek,PFOC
+104,309ALD,Salinas Reclamation Canal @ Boranda Rd,17604479,Alisal Slough,R2UBHx
+105,309-SRITA-36,Santa Rita Creek at North Main Street and East Bolivar Street,17605311, ,R4SBCx
+106,309-SRITA-34,Santa Rita Creek at Russell Road,17605311, ,R4SBCx
+107,314WE0542,El Jaro Creek ~0.3 miles downstream from Ytias Creek.,17608421,El Jaro Creek,
+108,305WE0883,Little Arthur Creek ~1mi W Redwood Retreat Rd.,17661455,Little Arthur Creek,R3UBH
+109,314WE0898,Nojoqui Creek Hwy 101 ~1.4mi S Hwy 246,17608135,Nojoqui Creek,
+110,314WE0796,Santa Cruz Creek WF ~3mi above Coche Creek,17609497, ,R4SBJ
+111,313WE0899,Shuman Creek Pt Sal Rd. ~1.4mi W Casmalia,17619942, ,PFO/SSC
+112,314WE0785,Unnamed Creek ~0.2mi SE Santa Ynez River,17607779, ,R2UBH
+113,314WE0779,Coche Creek ~1mi above WF Santa Cruz Creek,17609583,Coche Creek,R4SBJ
+114,314WE0677,Alamo Pintado Creek ~0.8mi above Figueroa Mtn. Rd.,17608911,Alamo Pintado Creek,
+115,314WE1046,Kelly Creek ~0.8mi above Paradise Rd.,17610859,Kelly Creek,
+116,304WE1096,Scott Creek ~0.7mi above Mill Creek,17682688,Scott Creek,PFOC
+117,312WE1035,Sisquoc River ~0.2mi below Big Pine Canyon,17626489,Sisquoc River,R4SBJ
+118,312WE1028,Sisquoc River ~0.8mi below Rattlesnake Canyon,17626437,Sisquoc River,R3UBF
+119,312CAW052,Alamo Creek ~0.8mi below Branch Creek,17632248,Alamo Creek,
+120,309CAW009,Arroyo Seco Creek ~0.6mi above Piney Cr.,8203299,Arroyo Seco,R3UBF
+121,307CAW135,Carmel River CAW135,17599293,Carmel River,PFOA
+122,310CAW176,Chorro Creek ~3.5mi above San Luisito Creek,8192613,Chorro Creek,R2UBH
+123,312CAW031,Cuyama River ~1mi NE Carrizo Canyon Creek,17633094,Cuyama River,PEM1A
+124,309CAW178,Rattle Snake Creek ~0.4mi above Pinal Creek,8204221,Rattlesnake Creek,PEM/SSC
+125,305CAW057,Salsipuedes Creek ~0.6mi above Hw 129,17663255,Salsipuedes Creek,
+126,309CAW194,San Antonio River above Del Venturi Rd.,8209329,San Antonio River,R4SBC
+127,309CAW174,San Antonio River NF above Carrizo Creek,8204149,North Fork San Antonio River,R4SBC
+128,310CAW192,San Luis Obispo Creek ~1.1mi above Reservoir Canyon Creek,8192653,San Luis Obispo Creek,R3UBH
+129,304CAW016,San Vicente Creek at Davenport,17682536,San Vicente Creek,PFOC
+130,304CAW081,Soquel Creek ~0.2mi above Laurel Glen Rd.,17683352,Soquel Creek,R3UBH
+131,309CAW126,Tassajara Creek ~0.3mi above Tassajara Hot Springs,8203401,Tassajara Creek,R3UBH
+132,305CAW097,Bodfish Creek ~0.45mi below Whitehurst Rd.,17661653,Bodfish Creek,PFOC
+133,314WE1102,Cachuma Creek ~0.25mi below Cachuma Cmp Grnd,17609433,Cachuma Creek,
+134,308CAW055,Garrapata Creek ~0.2mi below Joshua Creek,8188693,Garrapata Creek,R3UBH
+135,305CAW049,Pacheco Creek ~1.3mi above South Fork,17662371,Pacheco Creek,R4SBC
+136,304CAW153,Scott Creek ~4mi below Little Basin,17682680,Scott Creek,R3UBH
+137,309CAW116,Toro Creek at Gaging Station,8214349,Toro Creek,R4SBC
+138,309CAW130,Nacimiento River 0.7mi above Slickrock Creek,8209419,Nacimiento River,R4SBC
+139,309CAW182,San Antonio River ~1.4mi above Sam Jones Rd.,8210487,San Antonio River,R4SBC
+140,305CAW161,Uvas Creek ~0.4mi below Thomas Rd,17663007,Carnadero Creek,R4USC
+141,309CAW050,San Antonio River at Oro Fino Canyon,8209461,San Antonio River,R4SBC
+142,310UPN,Upper Pennington Creek,8193599,Pennington Creek,R4SBC
+143,310TUR,Warden Creek @ Turi Road,8192647, ,R4SBCx
+144,310UCR,Chorro Creek @ upper Chorro Creek Ecological Reserve,8192613,Chorro Creek,R2UBH
+145,310CER,"Chorro Creek above Ecological Reserve, ~0.3mi above San Luisito Creek",8192599,Chorro Creek,R2UBH
+146,310CHO,Chorro Creek at Camp SLO,8193603,Chorro Creek,R3UBH
+147,310TWB,Chorro Creek at South Bay Boulevard,8193581,Chorro Creek,R1UBV
+148,310COO,Coon Creek at Pecho Valley Road,8193645,Coon Creek,R3UBH
+149,310DAM,Dairy Creek within Cattle exclosure,8192615,Dairy Creek,PSSA
+150,310CLV,Los Osos Creek 1.0 mi downstream from 310CLK,8192687,Los Osos Creek,PFO/SSC
+151,310LVR,Los Osos Creek Los Osos Valley Rd.,8193607,Los Osos Creek,PFO/SSC
+152,310CPN,Pennington Creek @ bridge,8193599,Pennington Creek,R4SBC
+153,310PEN,Pennington Creek at Hwy 1,8193599,Pennington Creek,R4SBC
+154,310APN,Pennington Creek upstream from horse corral,8193599,Pennington Creek,R4SBC
+155,310SLU,San Luisito Creek @ Adobe Rd,8192585,San Luisito Creek,PSSAx
+156,310UWR,Warden Creek 1.5 mi upstream from Turri Rd,8193609, ,PSSCx
+157,310CAN,Chorro Creek at Canet Road,8192599,Chorro Creek,R2UBH
+158,310DAL,Dairy Creek lower limit,8192615,Dairy Creek,PSSC
+159,310SYB,Los Osos Creek @ Turri Rd no littering sign,8193593,Los Osos Creek,E1UBL
+160,310SBE,San Bernardo Creek @ Adobe Rd,8193579,San Bernardo Creek,PFO/SSC
+161,310DAU,Dairy Creek above Cattle Enclosure,8192615,Dairy Creek,R4SBC
+162,310CHD,Chorro Creek below Chorro Creek Dam,8193595,Chorro Creek,R4SBCx
+163,310CLK,Los Osos Creek Clark Valley Road,8192687,Los Osos Creek,PFO/SSC
+164,310MNO,"San Bernardo Creek, Maino Ranch",8193579,San Bernardo Creek,PFO/SSC
+165,310LSL,San Luisito Creek Lower,8192577,San Luisito Creek,PFOC
+166,310USL,San Luisito Creek Upper,8193577,San Luisito Creek,R3UBH
+167,CMWCP00,Carpinteria Creek at 8th Street,17596159,Carpinteria Creek,R4SBC
+168,CMWFK00,Franklin Creek at Carpinteria Ave.,17595477,Franklin Creek,R4SBCx
+169,CMWSM01,Santa Monica Creek at Via Real,17595473,Santa Monica Creek,R4SBCx
+170,GVWAT2,Atascadero Creek at Patterson,17595395,Atascadero Creek,R4SBC
+171,GVWAT3,Atascadero Creek at Puente Drive,17595361,Atascadero Creek,R4SBCx
+172,GVWAT1,Atascadero Creek at Ward,17595429,Atascadero Creek,R2UBF
+173,GVWBL2,Bell Creek at San Miguel Open Space,17595359, ,PFOC
+174,GVWCG1,Cieneguitas Creek at Nogal Drive,17595357,Cieneguitas Creek,R4SBCx
+175,GVWDV21,El Encanto Creek (Phelps Ditch) above Ocean Meadows Golf Course,17595413, ,R4SBAx
+176,GVWDV24,El Encanto Creek (Phelps Ditch) at Padova Park,17595413, ,PFOC
+177,GVWDV22,El Encanto Creek (Phelps Ditch) at Phelps Rd.,17595413, ,R4SBAx
+178,GVWDV20,El Encanto Creek at Devereux Slough,17595433, ,R2UBHx
+179,GVWGA2,Glen Annie/Tecolotito Creek at Cathedral Oaks,17595369,Tecolotito Creek,R4SBC
+180,GVWGA1,Glen Annie/Tecolotito Creek at Hollister Avenue,17595369,Tecolotito Creek,R4SBCx
+181,GVWLV1,Las Vegas Creek at La Goleta Road,17595351,Las Vegas Creek,PFOC
+182,GVWLC2,Los Carneros Creek at Calle Rea,17595367, ,PFOC
+183,GVWLC1,Los Carneros Creek at Hollister,17595367, ,R2UBHx
+184,GVWMY2,Maria Ygnacio at Old San Marcos Road,17596111,Maria Ygnacio Creek,PFOC
+185,GVWMY1,Maria Ygnacio Creek at Patterson,17595393,Maria Ygnacio Creek,R4SBC
+186,GVWSJ1,San Jose Creek at Hollister Avenue,17595405,San Jose Creek,R4SBC
+187,GVWSJ2,San Jose Creek at North Patterson Avenue,17596109,San Jose Creek,R4SBC
+188,GVWSP3,San Pedro Creek at Cathedral Oaks Road,17596097,San Pedro Creek,PFOC
+189,GVWSP1,San Pedro Creek near Hollister Avenue,17595383,San Pedro Creek,R4SBCx
+190,GVWTC2,Tecolote Creek at Vereda del Padre,17595353, ,R3UBH
+191,GVWTC1,Tecolote Creek Lagoon,17596215, ,E1UBL
+192,GVWDV25,Tributary of El Encanto Creek (Phelps Ditch) at Evergreen Frisbee Course,17595413, ,PFOC
+193,307PS0028,Carmel River,17600701,Carmel River,R3UBH
+194,304PS0018,Lompico Creek,17682662,Lompico Creek,R3UBH
+195,305PS0034,Pajaro River,17663227,Pajaro River,R2USA
+196,309PS0040,Salinas River PS0040,948060378,Salinas River,R4SBC
+197,304PS0006,Valencia Creek,17684370,Valencia Creek,
+198,307PS0044,Carmel River ~0.5mi below Paso Del Rio Rd.,17599355,Carmel River,R3UBH
+199,305PS0061,Llagas Creek below E San Martin Ave.,17661321,Llagas Creek,
+200,309PS0043,Nacimiento River ~2.5mi above Avery Rd.,8212889, ,R2UBG
+201,305PS0057,Pajaro River above Millers Canal,17662993,Pajaro River,PFOA
+202,312PS0099,Manzana Creek ~1.1mi below Davy Brown Cr.,17626291,Manzana Creek,R3UBF
+203,309PS0072,Salinas River ~1.1mi above Hwy 101,948060165,Salinas River,R4SBC
+204,309PS0116,San Antonio River ~0.5mi above Bear Cyn. Cr.,8204319,San Antonio River,R4SBC
+205,304PS0146,Arana Gulch at Soquel Ave.,17684382, ,
+206,304PS0194,East Waddell Creek ~0.7mi below Opal Cr.,17682654,East Waddell Creek,PFOC
+207,308PS0156,Skinner Creek ~0.2mi above Little Sur River,8188801,Skinner Creek,R3UBH
+208,308PS0204,Big Sur River ~1mi above Pfeiffer Redwood Cr.,8188943,Big Sur River,R3UBH
+209,304PS0253,San Lorenzo River ~0.4mi above McGaffigan Rd.,17682178,San Lorenzo River,R3UBH
+210,304PS0274,Zayante Creek above Grahm Hill Rd,17682470,Zayante Creek,R3UBH
+211,308PS0308,Unnamed Trib. to Mill Creek ~0.8mi above Mainstem,8190091, ,R4SBC
+212,307CE0094,San Clemente Creek ~1.3mi above Black Rock Creek,17601605,San Clemente Creek,R3UBH
+213,309ARCBRC,Arroyo Seco below Rocky Creek,8203373,Arroyo Seco,R3UBH
+214,309CLCBVC,Chalone Creek,8202351,Chalone Creek,PEM/SSC
+215,305CLCSBR,Clear Creek,17673639,Clear Creek,
+216,305LGCACR,Laguna Creek,17671963,Laguna Creek,PUBF
+217,309SARANF,San Antonio River,8204317,San Antonio River,R4SBC
+218,309SDCMCC,Sandy Creek,8202263, ,R3UBH
+219,310LPCBPC,Lopez Canyon Creek ~0.5mi below Potrero Cr.,8192731, ,R3UBH
+220,315ARH101,Arroyo Hondo ~0.5mi above Hwy 101,17594741, ,R3UBH
+221,309ARSARC,Arroyo Seco ~0.3mi above Rosevelt Cr.,8204015,Arroyo Seco,R3UBH
+222,308BSU,Big Sur River at Peiffer Big Sur State Park USGS gauge,8189809,Big Sur River,R3UBH
+223,307CMRADC,Carmel River above Danish Cr.,17601657,Carmel River,R3UBH
+224,305LGCBRC,Llagas Creek above Baldy Ryan Cyn. Cr.,17661007,Llagas Creek,R3UBH
+225,312MZCDBC,Manzana Creek ~0.5mi above Davy Brown Creek,17626881,Manzana Creek,R3UBF
+226,308MWCAH1,McWay Creek ~0.4mi above Hwy 1,8189049,McWay Creek,R3UBH
+227,310OLD,Old Creek at Cottontail Creek Road County Access Gate,8193557,Old Creek,R2UBH
+228,308PWCAH1,Prewitt Creek above Hwy 1,8190141,Prewitt Creek,R3UBH
+229,312RYCALR,Reyes Creek ~2.7mi above Lockwood Valley Rd.,17637988,Reyes Creek,PSSA
+230,308SAM,Salmon Creek upstream Hwy 1,8191147,Salmon Creek,R3UBH
+231,307SCCARR,San Clemente Creek ~0.5mi above Robinson Cyn. Rd.,17600667,San Clemente Creek,R4SBC
+232,304SPC236,Sempervirens Creek above Hwy 236,17682218,Sempervirens Creek,R3UBF
+233,305SSCAUC,Swanson Creek above Uvas Cr.,17661281, ,PFOA
+234,305UVCASC,Uvas Creek above Swanson Cyn. Cr.,17661237,Uvas Creek,R3UBH
+235,304WDCAH1,Waddell Creek ~1.8mi above Hwy 1,17682686,Waddell Creek,R3UBH
+236,309WLCATC,Willow Creek ~0.3mi above Trassajara Cr.,8203489,Willow Creek,R3UBH
+237,308BGC,Big Creek at Highway 1,8189139,Big Creek,R3UBH
+238,308LSRASC,Little Sur River ~0.4mi above Skinner Cr.,8188811,Little Sur River,R3UBH
+239,310SSU,San Simeon Creek at San Simeon Creek Road,8190679,San Simeon Creek,R3UBH
+240,309LAS1MI,Arroyo Seco Creek ~1.1mi below Tassajara Cr.,8203439,Arroyo Seco,R3UBH
+241,312DAVDAV,Davy Brown Creek below Munch Cyn.,17626357, ,R4SBJ
+242,308LILPAL,Little Sur River ~1.7mi above Skinner Cr.,8188755,Little Sur River,R3UBH
+243,308ROCBBQ,Rocky Creek ~1.7mi above Hwy 1,8188719,Rocky Creek,R3UBH
+244,309SED071,Tassajara Creek - Horse Pasture Trail 71,8203477,Tassajara Creek,R3UBH
+245,308WER325,Little Sur River above Skinner Creek,8188799,Little Sur River,R3UBH
+246,312SQRABP,Sisquoc River ~2.3 mi above Big Pine Cyn.,17626569,Sisquoc River,R3UBF
+247,304APW,Aptos Creek @ Winfield,17684386,Aptos Creek,
+248,304APT,Aptos Creek at Spreckles Drive,17684386,Aptos Creek,
+249,315ABU,Arroyo Burro at Cliff Drive,17595459,Arroyo Burro,PFOC
+250,310ADU,Arroyo de la Cruz 500m upstream from Highway 1,8190409,Arroyo De La Laguna,R4SBC
+251,310ADC,Arroyo de la Cruz at Highway 1,8190405,Arroyo De La Laguna,R4SBC
+252,310ARG,Arroyo Grande Creek at 22nd Street,8193683,Arroyo Grande Creek,R4SBCx
+253,315ATA,Atascadero Creek at Ward Drive,17595429,Atascadero Creek,R2UBF
+254,308BSR,Big Sur River at Andrew Molera foot bridge,8188861,Big Sur River,R3UBH
+255,315GAV,Canada de la Gaviota at State Park entrance,17594763, ,R3UBH
+256,307CML,Carmel River at Highway 1,17600111,Carmel River,R2UBH
+257,315CRP,Carpinteria Creek at 8th Street foot bridge,17596159,Carpinteria Creek,R4SBC
+258,315FRC,Franklin Creek at 7th Street,17595477,Franklin Creek,R4SBCx
+259,304GAZ,Gazos Creek Lagoon at Highway 1,17682228,Gazos Creek,R3UBH
+260,315JAL,Jalama Creek at County Park at RR trussels,17593975,Jalama Creek,R3UBH
+261,308LSR,Little Sur River @ Hwy 1,8188795,Little Sur River,R3UBH
+262,315MIS,Mission Creek at Montecito Street,17595453,Mission Creek,R4SBCx
+263,305THU,Pajaro River at Thurwachter Bridge,17663449,Pajaro River,E2EMPx
+264,310PIS,"Pismo Creek above Highway 101, Frady Lane Bridge",8192993,Pismo Creek,R3UBH
+265,315RIN,Rincon Creek at Bates Road,17596161,Rincon Creek,R4USC
+266,309DAV,Salinas River at Davis Road,8200471,Salinas River,R4SBC
+267,313SAI,San Antonio Creek at San Antonio Rd West,17620568,San Antonio Creek,R2UBH
+268,313SAC,San Antonio Creek at VAFB RR bridge,17620018,San Antonio Creek,PFOC
+269,310SLB,San Luis Obispo Creek at San Luis Bay Drive,8192913,San Luis Obispo Creek,R2UBH
+270,310SSC,San Simeon Creek at State Park foot bridge,8190709,San Simeon Creek,R2UBH
+271,304SVC,San Vicente Creek at the gate at the end of San Vicente Creek Road,17682526,San Vicente Creek,PFOC
+272,310SRO,Santa Rosa Ck at Moonstone Beach Drive,8191209,Santa Rosa Creek,R3UBH
+273,304SCM,Scott Creek upstream Big Creek residences,17682682,Scott Creek,R3UBH
+274,304SOK,Soquel Creek at Knob Hill Parking Lot,17684378,Soquel Creek,PFOS
+275,304SOQ,Soquel Creek Lagoon at RR Trussels,17684380,Soquel Creek,R1UBV
+276,304WAD,Waddell Creek Lagoon at Highway 1,17682686,Waddell Creek,E1UBL
+277,308WLO,Willow Creek at Highway 1,8190201,Willow Creek,R3UBH
+278,312ALA,Alamo Creek at Alamo Creek Road,17632516,Alamo Creek,PSSA
+279,315ABH,Arroyo Burro Creek at Hope Street,17596153,Arroyo Burro,R4SBAx
+280,315ATU,Atascadero Creek @ Patterson Avenue,17595395,Atascadero Creek,R4SBC
+281,315BEL,Bell Ck on Bacara Resort Access Road,17595359, ,R3UBH
+282,312BCD,Blosser Channel below groundwater recharge ponds,,,
+283,312BCF,Bradley Canyon diversion channel @ Foxen Canyon Rd,17624263, ,
+284,312BCU,Bradley Channel above ponds at Magellan Drive,17623977, ,
+285,315GAI,Canada de la Gaviota at Highway 1,17593463, ,R3UBF
+286,315RSB,Canada del Refugio above Highway 101,17594785, ,PSSC
+287,312CAV,Cuyama River at Highway 33,17637968,Cuyama River,R4USC
+288,312CUY,Cuyama River downstream Buckhorn Rd,17632536, ,R4SBA
+289,315DOS,Dos Pueblos Canyon Creek at Highway 101,17595317, ,PFOC
+290,315CAP,El Capitan Creek below Highway 101,17594801,El Capitan Creek,R3UBH
+291,315ANN,Glenn Annie Creek at Los Carneros Road,17595369,Tecolotito Creek,R4SBCx
+292,312BRE,La Brea Creek at private property access,17624669,La Brea Creek,
+293,315MYC,Maria Ynacio Creek @ Patterson Avenue,17595393,Maria Ygnacio Creek,R4SBC
+294,315MIU,Mission Creek at Foothill Road,17595453,Mission Creek,PFOA
+295,312NIP,Nipomo Creek at Highway 166,17625305,Nipomo Creek,R4SBC
+296,312NIT,Nipomo Creek at Tefft Street,17621895,Nipomo Creek,R4SBC
+297,315ROM,Romero Creek @ Jamison Lane,17595445,Romero Creek,PFOA
+298,309SBR,Salinas River @ Hwy 1,8201913,Salinas River,R1UBV
+299,314SAL,Salsipuedes Creek @ Santa Rosa Rd,17607969,Salsipuedes Creek,R3UBH
+300,313SAB,San Antonio Creek at Rancho de las Flores Bridge and Highway 135,17620132,San Antonio Creek,
+301,315SJC,San Jose Creek @ Kellogg Boulevard,17595405,San Jose Creek,R4SBCx
+302,314MIG,San Miguelito Creek at W. North Avenue,17607917,San Miguelito Creek,
+303,315SPC,San Pedro Creek above Holister Road,17595383,San Pedro Creek,R4SBCx
+304,315SMC,Santa Monica Creek @ Carpenteria Avenue,17595473,Santa Monica Creek,R4SBCx
+305,314SYP,Santa Ynez River at Paradise Road,17610671,Santa Ynez River,R4USA
+306,314SYC,Santa Ynez River d/s Lake Cachuma at Highway 154,17608051,Santa Ynez River,R4USA
+307,312SIV,Sisquoc River upstream Tepusquet at USGS gage,17625379,Sisquoc River,R4USJ
+308,315SCC,Sycamore Creek at Punta Gorda,17595447,Sycamore Creek,R4SBAx
+309,315TCI,Tecolote Creek @ Bacara Resort access Road,17595353, ,R3UBH
+310,315TOR,Toro Canyon Creek at  Via Real,17595451,Toro Canyon Creek,R4SBAx
+311,304APS,Aptos Creek at Nisene Marks Park Road,17683402,Aptos Creek,R3UBH
+312,304ARA,Arana Gulch at Harbor High School,17684382, ,
+313,304BEP,Bear Creek at Elks Park,17682316,Bear Creek,R3UBH
+314,304BH9,Boulder Creek at Highway 9,17682322,Boulder Creek,R3UBH
+315,304BRA,Branciforte Creek at Water Street,17684084,Carbonera Creek,R3UBH
+316,305COR2,Corralitos Creek at Brown Valley Road,17663061,Corralitos Creek,
+317,305LUC,Llagas Creek @ Luchessa Avenue/Southside Drive,948060250,Llagas Creek,
+318,305MON,Llagas Creek @ Monterey Rd,17661195,Llagas Creek,
+319,305OAK,Llagas Creek @ Oak Glen Avenue,17661097,Llagas Creek,PFOC
+320,305CHE,Llagas Creek @ Chesbro Reservoir,17661049,Llagas Creek,PFOCh
+321,305PAC,Pacheco Creek at San Felipe Road,17663037,Pacheco Creek,R4USC
+322,305PAJ,Pajaro River at Betabel Road,17663291,Pajaro River,PFOA
+323,305MUR,Pajaro River at Murphy's Crossing,17665507,Pajaro River,R2USC
+324,305BRI,"San Benito River, Bridge downstream Willow Creek",17665645,San Benito River,R4SBC
+325,305SJN,San Juan Creek at Anzar Rd for RWB3 Site,17663387, ,PEMHx
+326,304SLB,San Lorenzo River at Big Trees Road,17682474,San Lorenzo River,R3UBH
+327,304RIV,San Lorenzo River at Crossing Street,17684066,San Lorenzo River,R3UBH
+328,304SL9,San Lorenzo River at Highway 9,17682384,Love Creek,R3UBH
+329,304SLE,San Lorenzo Upstream Bear Creek,17682314,San Lorenzo River,R3UBH
+330,304SOU,Soquel Creek at Soquel Creek Road,17683352,Soquel Creek,R3UBH
+331,305TES,Tesquisquita Slough at Shore Road,17663151,Tequisquita Slough,
+332,305TRE,Tres Pinos Creek @ Southside Rd,17665547,Tres Pinos Creek,R4USA
+333,305UVA,Uvas Creek at Bloomfield Avenue,17663007,Carnadero Creek,PFOA
+334,304VAL,Valencia Creek upstream Aptos Creek Confluence,17684372, ,
+335,304ZAY,Zayante Creek at Graham Hill Road,17682470,Zayante Creek,R3UBH
+336,305CAR,Carnadero Creek at Private property access,17663007,Carnadero Creek,PFOA
+337,305HAR,Harkins Slough at Harkins Slough Road,17663267, ,PEMC
+338,305VIS,Llagas Creek @ Buena Vista Avenue,17661447,Llagas Creek,
+339,305LEA,Llagas Creek at Leavesley Road,17661631,Llagas Creek,PUSAx
+340,305PES,Pescadero Creek NE of Chittendon @ RR tracks,17663279,Pescadero Creek,PFOA
+341,309POT,Old Salinas River @ Potrero Rd,17605293,Alisal Slough,E1UBL
+342,309SEC,Arroyo Seco River @ Elm St,8205291,Arroyo Seco,R3UBF
+343,309ATS,Atascadero Creek Highway 41,8213339,Atascadero Creek,R3UBF
+344,306CAR,Carneros Creek in Los Lomas @ Blohm Rd,17604029,Elkhorn Slough,R2UBHx
+345,317CHO,Cholame Creek At Bitterwater Road,17647963,Cholame Creek,R3UBF
+346,309NAC,Nacimiento River at Highway 101,8212739, ,R2UBG
+347,309UAL,Salinas Reclamation Canal @ Old Stage Rd,948060324,Alisal Creek,R4SBCx
+348,309ALU,Salinas Reclamation Canal at Airport Rd,17604551,Alisal Creek,R2UBHx
+349,309KNG,Salinas River @ Hwy 101 in King City,948060164,Salinas River,PSSA
+350,309SAS,Salinas River @ Hwy 101 in Soledad,948060170,Salinas River,R4SBC
+351,309PSO,Salinas River 13th Street in Paso Robles,8212843,Salinas River,R4SBC
+352,309SAT,Salinas River at Highway 41,8213281,Salinas River,R4SBC
+353,309DSA,Salinas River Cattlemen Road near San Ardo,8209153,Salinas River,R4SBC
+354,309SAN,San Antonio River @ Hwy 101,8212727,San Antonio River,R4SBC
+355,309TEM,Tembladero Slough @ Preston Rd,17605297, ,R1UBV
+356,306WAC,Watsonville Creek @ Elkhorn Rd,17604009, ,R2UBHx
+357,309SET,Arroyo Seco River at Thorne Road,8202941,Arroyo Seco,R4SBC
+358,317CHO2,Cholame Creek 500m Downstream of Bitterwater Rd.,17648071,Cholame Creek,R3UBF
+359,317EST,Estrella River @ Airport Rd,17647991,Estrella River,R4SBA
+360,309AXX,Salinas Reclamation Canal Storm Drain @ Airport Rd,17604551,Alisal Creek,R2UBHx
+361,309LOR,San Lorenzo Creek @ Bitterwater Rd east of King City,8205487,San Lorenzo Creek,R3UBF
+362,309LOK,San Lorenzo Creek @ First St in King City,8205383,San Lorenzo Creek,R4SBC
+363,309TOP,Topo Creek @ Metz Rd,8202713, ,R4SBC
+364,309NAF,Nacimiento River above Ponderosa campground,8204525,Nacimiento River,R3UBH
+365,309SAP,Salinas River at High Mountain Lookout Road,8213739,Salinas River,R4SBC
+366,309ANT,San Antonio River at Interlake Road Bridge,8210533,San Antonio River,R4SBC
+367,315SJH,San Jose Creek @ Hollister Road,17595405,San Jose Creek,R4SBC
+368,315CAU,Carpinteria Creek at Highway 192,17596159,Carpinteria Creek,R4SBC
+369,315MTC,Montecito Creek at Jamison Lane,17595449,Montecito Creek,R4SBCx
+370,315YSI,San Ysidro Creek @ Jamison Lane,17595443,San Ysidro Creek,R4SBCx
+371,310SCN,Stenner Creek at Nipomo Street,8192711, ,R3UBH
+372,310AGB,Arroyo Grande at Bittle Park,8193667,Arroyo Grande Creek,R3UBH
+373,310AGF,Arroyo Grande at Fair Oaks Bridge,8193021,Arroyo Grande Creek,PFOC
+374,310AGS,Arroyo Grande Creek @ Strother Park,8193677,Arroyo Grande Creek,R3UBH
+375,307CMN,Carmel River @ Nason Rd Community Park,17600733,Carmel River,R3UBH
+376,307CMU,Carmel River at Esquiline Road,17600475,Carmel River,R3UBH
+377,308GAR,Garrapata Creek at Private Property access (above Highway 1),8188693,Garrapata Creek,R3UBH
+378,308LIM,Limekiln Creek @ Limekiln State Park,8189197,Limekiln Creek,R3UBH
+379,308MIL,Mill Creek @ Mill Creek Picnic Area,8190105,Mill Creek,R3UBH
+380,310PCO,Pico Creek @ Hwy 1,8190665,Pico Creek,E1UBL
+381,308SJC,San Jose Creek at Private Road Access (north of Point Lobos),8187663,San Jose Creek,R3UBH
+382,310SLC,San Luis Creek at Cuesta Park,8192659,San Luis Obispo Creek,R3UBF
+383,310SLV,San Luis Obispo Ck at Los Osos Valley Road,8192773,San Luis Obispo Creek,R3UBH
+384,310SLM,San Luis Obispo Creek @ Mission Plaza,8193611,San Luis Obispo Creek,R3UBH
+385,310SRU,Santa Rosa Creek at Ferrassi Road,8190759,Santa Rosa Creek,R3UBH
+386,307TUL,Tularcitos Creek @ Carmel Valley Rd,17600591,Tularcitos Creek,R4SBC
+387,307CMD,Carmel River @ Schulte Rd,17600113,Carmel River,R2UBH
+388,310CAY,Cayucos Creek @ Cayucos Creek Rd,8193565,Cayucos Creek,R3UBH
+389,310SCP,San Carpoforo Creek @ Hwy 1,8190321,San Carpoforo Creek,R1UBV
+390,310TCC,Toro Creek at Toro Creek Canyon Road Bridge,8192531,Toro Creek,R3UBH
+391,310TOR,Toro Creek upstream Hwy 1,8192531,Toro Creek,R3UBH
+392,310VIA,Villa Creek upstream Hwy 1,8192479,Villa Creek,R2UBFx
+393,308LSU,Little Sur River @ Old Coast Rd,8188841,South Fork Little Sur River,R3UBH
+394,310BER,Los Berros Creek @ Valley Rd,8193027,Los Berros Creek,R4SBCx
+395,310MOR,Morro Creek @ Lila Kaiser Park,8192559,Morro Creek,R2UBH
+396,312CCC,Cuyama River below Cottonwood Canyon,17633540,Cuyama River,R4USA
+397,312GVT,Orcutt Creek at Brown Road,17624199, ,R4SBCx
+398,312CUT,Cuyama River below Twitchell @ White Rock Lane,17635028,Cuyama River,PUSCx
+399,312HUA,Huasna River at School Road,17633096,Huasna River,R4SBA
+400,312SBC,Santa Maria River at Bull Canyon Road,17625465,Santa Maria River,R4USJ
+401,312SIS,Sisquoc River At Santa Maria Mesa Road,17625349,Sisquoc River,R4USJ
+402,311SLN,Soda Lake North Tributary at Seven Mile Road,17657207, ,R4USA
+403,311SLE,Soda Lake northeast culvert @ Seven Mile Rd,17657193, ,L2USC
+404,309SALUBD,Salinas River at Blaco Road (upstream of Blanco Dam),8201805,Salinas River,R4SBC
+405,309SALDDM,Salinas River downstream of Blanco Drain (100 feet below the inflatable dam),8201803,Salinas River,R1UBV
+406,315FRCMVU,Franklin Creek 300 feet above Meadow View Road,17595477,Franklin Creek,R4SBCx
+407,315FRCMVD,Franklin Creek 300 feet below Meadow View Road,17595477,Franklin Creek,R4SBCx
+408,305CCUSGS,Clear Creek at USGS gauge and Oak Flat Camp,17673639,Clear Creek,PSS/USA
+409,,,,,

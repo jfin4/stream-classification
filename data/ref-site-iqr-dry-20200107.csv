@@ -1,0 +1,22 @@
+"","ref_names","StationCode","N","turb_quan25","turb_quan5","turb_quan75","ref_iqr"
+"40","Lower Uvas Creek","305CAN",29,1.1,3.9,14.3,13.2
+"41","Lower Uvas Creek","305CAR",12,2.55,6.45,15.4,12.85
+"47","Lower Pajaro River","305CHI",86,10.07,23.5,50.2,40.13
+"49","Salsipuedes Creek","305COR",68,5.185,13.15,34.125,28.94
+"55","Lower Llagas Creek","305LCS",61,1.3,3.46,6.19,4.89
+"74","San Juan Creek","305SJA",69,5.72,9,16.1,10.38
+"75","San Juan Creek","305SJN",10,2.025,2.85,5.85,3.825
+"87","Watsonville Slough","305WSA",48,13.375,22.15,73.95,60.575
+"99","Elkhorn Slough (Watsonville Creek)","306WAC",13,0,1.3,5.2,5.2
+"226","Chorro Creek","310CCC",118,0.945,1.495,2.59,1.645
+"247","Pismo Creek","310PIS",71,0.1,2.2,6.4,6.3
+"248","San Luis Obispo Creek","310PRE",80,7.21,9.85,13.6,6.39
+"252","San Luis Obispo Creek","310SLB",77,0,0.18,1.4,1.4
+"266","Chorro Creek","310TWB",160,0.4375,1.165,2.3075,1.87
+"299","Oso Flaco Creek","312OFN",80,4.475,8.43,20.375,15.9
+"303","Orcutt Creek (at Highway 1)","312ORI",85,7.6,11,27.6,20
+"317","Lower San Antonio Creek","313SAI",68,0.1975,2.05,9,8.8025
+"324","Santa Lucia Canyon-Santa Ynez River","314SYF",63,1.15,4.02,7.52,6.37
+"326","Santa Miguelito Canyon-Santa Ynez River","314SYL",26,0.1875,1.65,3.635,3.4475
+"327","Santa Lucia Canyon-Santa Ynez River","314SYN",81,0.4,1.9,5.62,5.22
+"350","Dos Pueblos Canyon (Devereux Slough)","315DEV",10,11,22.6,36.5,25.5
